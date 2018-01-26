@@ -1,3 +1,3 @@
 # PBfB
-![GitHub Logo](/images/logo.png)
+![OCtopus](/Pictures/octopus.png)
 Format: ![Alt Text](url)
